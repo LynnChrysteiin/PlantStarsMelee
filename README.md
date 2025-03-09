@@ -7,4 +7,4 @@
 - 设计了可扩展的摄像机类，用于完成特殊攻击时视角的抖动等。
 
 ---
-致谢与参考：[Voidmatrix](https://space.bilibili.com/25864506)
+致谢与参考：[Voidmatrix](https://github.com/VoidmatrixHeathcliff)
