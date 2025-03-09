@@ -6,4 +6,4 @@
 - 游戏内置简单的物理引擎，用于处理角色的移动、跳跃和碰撞检测。
 
 ---
-致谢：[Voidmatrix](https://space.bilibili.com/25864506)
+致谢与参考：[Voidmatrix](https://space.bilibili.com/25864506)
