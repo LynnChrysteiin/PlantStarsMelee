@@ -6,5 +6,8 @@
 - 游戏内置简单的物理引擎，用于处理角色的移动、跳跃和碰撞检测。
 - 设计了可扩展的摄像机类，用于完成特殊攻击时视角的抖动等。
 
+
 ---
+LynnChrysteiin | July 30, 2024
+
 致谢与参考：[Voidmatrix](https://github.com/VoidmatrixHeathcliff)
